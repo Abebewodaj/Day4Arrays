@@ -74,4 +74,6 @@ export function generateArray(rows: number, cols: number): number[][]{
 //IMPLEMENT THIS 
 
 return [[0]];
+
+//just test
 }
